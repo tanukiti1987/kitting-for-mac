@@ -17,6 +17,8 @@ brew "ruby-build"
 brew "docker"
 cask "docker"
 
+brew "nodebrew"
+
 ## Applications
 
 cask "iterm2"
