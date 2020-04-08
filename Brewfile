@@ -18,6 +18,11 @@ brew "docker"
 cask "docker"
 
 brew "nodebrew"
+brew "yarn"
+
+brew "mysql@5.7"
+
+brew "envchain"
 
 ## Applications
 
