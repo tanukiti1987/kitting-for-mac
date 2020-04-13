@@ -23,6 +23,7 @@ brew 'yarn'
 brew 'mysql@5.7'
 
 brew 'envchain'
+brew 'jq'
 
 ## Applications
 
