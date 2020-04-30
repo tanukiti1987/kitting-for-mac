@@ -26,7 +26,7 @@ brew 'envchain'
 brew 'jq'
 
 ## Applications
-
+cask 'appcleaner'
 cask 'iterm2'
 cask 'sublime-text'
 cask 'google-chrome'
@@ -38,3 +38,4 @@ cask '1password'
 cask 'notion'
 cask 'sequel-pro'
 cask 'skitch'
+cask 'the-unarchiver'
